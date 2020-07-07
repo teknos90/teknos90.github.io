@@ -1,9 +1,35 @@
+
 .center {
     margin-left: auto;
     margin-right: auto;
 }
 html {
-    background-color: yellow;
+    background-color: lightblue;
     text-align: center;
 }
 caption{ width: 300px;}
+
+img {
+    width: 600px;
+}
+
+.sorok {
+    width: 1000px;
+}
+
+.menu :hover {
+    background-color: blue;
+    border: 1px solid darkblue;
+    color: skyblue;
+    
+}
+
+link : :visited{
+    color
+}
+
+.button {
+    background-color: skyblue;
+    margin: 10px;
+    padding: 10px 20px;
+}
