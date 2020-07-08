@@ -2,19 +2,25 @@
 .center {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
 }
 html {
     background-color: lightblue;
     text-align: center;
+    margin-top: 20px;
 }
 caption{ width: 300px;}
 
 img {
-    width: 600px;
+    width: 500px;
 }
 
 .sorok {
     width: 1000px;
+}
+
+#bivaly {
+    width: 300px;
 }
 
 .menu :hover {
@@ -24,12 +30,12 @@ img {
     
 }
 
-link : :visited{
-    color
-}
-
 .button {
     background-color: skyblue;
     margin: 10px;
     padding: 10px 20px;
+    color: black;
+    font-size: 24px;
+    border-radius: 10px;
+    box-shadow: -2px 1px 5px skyblue;
 }
